@@ -1,0 +1,30 @@
+﻿{
+	"version": 1740743489,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/playeranimation-sheet0.png",
+		"images/playeranimation-sheet1.png",
+		"images/bg-sheet0.png",
+		"images/player-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/coin-sheet0.png",
+		"images/logo2-sheet0.png",
+		"media/coin.m4a",
+		"media/coin.ogg",
+		"media/walk.m4a",
+		"media/walk.ogg",
+		"media/bg music.m4a",
+		"media/bg music.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
